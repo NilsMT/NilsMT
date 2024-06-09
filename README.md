@@ -101,8 +101,8 @@
 ![Krita](https://img.shields.io/badge/Krita-999451?style=for-the-badge&labelColor=black&logo=krita&logoColor=999451)
 ![Shotcut](https://img.shields.io/badge/Shotcut-023638?style=for-the-badge&labelColor=black&logo=shotcut&logoColor=023638)
 ![Medibang Paint](https://img.shields.io/badge/Medibang%20Paint-bd1206?style=for-the-badge&labelColor=black&logo=medibang&logoColor=bd1206)
-![Suite Google](https://img.shields.io/badge/Suite%%20Google-4285F4?style=for-the-badge&labelColor=black&logo=google&logoColor=4285F4)
-![Suite Office](https://img.shields.io/badge/Suite%%20Office-D83B01?style=for-the-badge&labelColor=black&logo=microsoft&logoColor=D83B01)
+![Suite Google](https://img.shields.io/badge/Suite%20Google-4285F4?style=for-the-badge&labelColor=black&logo=google&logoColor=4285F4)
+![Suite Office](https://img.shields.io/badge/Suite%20Office-D83B01?style=for-the-badge&labelColor=black&logo=microsoft&logoColor=D83B01)
 [![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&labelColor=black&logo=draw.io&logoColor=F08705)](https://www.draw.io/)
 
 ## Logiciels en cours d'apprentisage

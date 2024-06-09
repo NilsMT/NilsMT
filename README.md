@@ -101,8 +101,8 @@
 ![Krita](https://img.shields.io/badge/Krita-999451?style=for-the-badge&labelColor=black&logo=krita&logoColor=999451)
 ![Shotcut](https://img.shields.io/badge/Shotcut-023638?style=for-the-badge&labelColor=black&logo=shotcut&logoColor=023638)
 ![Medibang Paint](https://img.shields.io/badge/Medibang%20Paint-bd1206?style=for-the-badge&labelColor=black&logo=medibang&logoColor=bd1206)
-![Google Suite](https://img.shields.io/badge/Google%20Suite-4285F4?style=for-the-badge&labelColor=black&logo=google&logoColor=4285F4)
-![Office Suite](https://img.shields.io/badge/Office%20Suite-D83B01?style=for-the-badge&labelColor=black&logo=microsoft&logoColor=D83B01)
+![Suite Google](https://img.shields.io/badge/Suite%%20Google-4285F4?style=for-the-badge&labelColor=black&logo=google&logoColor=4285F4)
+![Suite Office](https://img.shields.io/badge/Suite%%20Office-D83B01?style=for-the-badge&labelColor=black&logo=microsoft&logoColor=D83B01)
 [![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&labelColor=black&logo=draw.io&logoColor=F08705)](https://www.draw.io/)
 
 ## Logiciels en cours d'apprentisage
@@ -111,7 +111,7 @@
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&labelColor=black&logo=unity&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&labelColor=black&logo=blender&logoColor=F5792A)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-black?style=for-the-badge&labelColor=black&logo=unreal-engine&logoColor=white)
-![JetBrains Suite](https://img.shields.io/badge/JetBrains%20Suite-000000?style=for-the-badge&labelColor=black&logo=jetbrains&logoColor=white)
+![Suite JetBrains](https://img.shields.io/badge/Suite%20JetBrains-000000?style=for-the-badge&labelColor=black&logo=jetbrains&logoColor=white)
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A248?style=for-the-badge&labelColor=black&logo=overleaf&logoColor=47A248)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=2496ED)](https://www.docker.com/)
 [![LMMS](https://img.shields.io/badge/LMMS-00b341?style=for-the-badge&labelColor=black&logo=lmms&logoColor=00b341)](https://lmms.io/)

@@ -93,8 +93,10 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=00599C)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&labelColor=black&logo=latex&logoColor=008080)
 
-## Logiciels maitrisées
+## Applications maitrisées
 
+![ChatGPT](https://img.shields.io/badge/ChatGPT-008080?style=for-the-badge&labelColor=black)
+![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&labelColor=black&logo=trello&logoColor=0079BF)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&labelColor=black&logo=visual-studio-code&logoColor=007ACC)
 ![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-0091ff?style=for-the-badge&labelColor=black&logo=roblox&logoColor=0091ff)
@@ -105,7 +107,7 @@
 ![Suite Office](https://img.shields.io/badge/Suite%20Office-D83B01?style=for-the-badge&labelColor=black&logo=microsoft&logoColor=D83B01)
 [![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&labelColor=black&logo=draw.io&logoColor=F08705)](https://www.draw.io/)
 
-## Logiciels en cours d'apprentisage
+## Applications en cours d'apprentisage
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&labelColor=black&logo=visual-studio&logoColor=5C2D91)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&labelColor=black&logo=unity&logoColor=white)

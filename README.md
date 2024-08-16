@@ -33,7 +33,7 @@
 
 ## Études
 
-![BUT Informatique 2ème année](https://img.shields.io/badge/BUT%20Informatique-2%C3%A8me%20année-grey?style=for-the-badge&labelColor=black)<br>
+![BUT Informatique 3ème année](https://img.shields.io/badge/BUT%20Informatique-3%C3%A8me%20année-grey?style=for-the-badge&labelColor=black)<br>
 ![BAC STI2D Mention Assez Bien](https://img.shields.io/badge/BAC%20STI2D-Option%20SIN-grey?style=for-the-badge&labelColor=black)<br>
 ![Collège Option Section Européenne](https://img.shields.io/badge/Collège-Option%20Section%20Européenne-grey?style=for-the-badge&labelColor=black)
 

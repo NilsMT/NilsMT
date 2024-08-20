@@ -31,6 +31,10 @@
     <br>
 </p>
 
+<p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=nilsmt)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
+
 ## Études
 
 ![BUT Informatique 3ème année](https://img.shields.io/badge/BUT%20Informatique-3%C3%A8me%20année-grey?style=for-the-badge&labelColor=black)<br>

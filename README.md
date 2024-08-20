@@ -32,7 +32,7 @@
 </p>
 
 <p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=nilsmt)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nilsmt&theme=darkhub&margin-w=15&margin-h=15&coloumn=3&row=1" alt="nilsmt_stats" /></a>
 </p>
 
 ## Études

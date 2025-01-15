@@ -1,6 +1,6 @@
 <h3 align="center">
     <samp>&gt; Bonjour, je m'appelle
-            <b><a target="_blank" href="https://nilsmt.github.io/Portfolio">Nils</a></b>
+            <b><a target="_blank" href="https://nilsmt.vercel.app">Nils</a></b>
     </samp>
 </h3>
 

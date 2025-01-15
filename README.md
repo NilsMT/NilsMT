@@ -39,39 +39,6 @@
 
 ![BUT Informatique 3ème année](https://img.shields.io/badge/BUT%20Informatique-3%C3%A8me%20année-grey?style=for-the-badge&labelColor=black)<br>
 ![BAC STI2D Mention Assez Bien](https://img.shields.io/badge/BAC%20STI2D-Option%20SIN-grey?style=for-the-badge&labelColor=black)<br>
-![Collège Option Section Européenne](https://img.shields.io/badge/Collège-Option%20Section%20Européenne-grey?style=for-the-badge&labelColor=black)
-
-
-
-## Langues
-
-![Français](https://img.shields.io/badge/Français-Langue%20maternelle-grey?style=for-the-badge&labelColor=black&logo=language&logoColor=grey)<br>
-![Anglais](https://img.shields.io/badge/Anglais-B2-grey?style=for-the-badge&labelColor=black&logo=language&logoColor=grey)<br>
-![Espagnol](https://img.shields.io/badge/Espagnol-Notion-grey?style=for-the-badge&labelColor=black&logo=language&logoColor=grey)
-
-## Notions
-
-![MVC](https://img.shields.io/badge/MVC-AA8500?style=for-the-badge&labelColor=black)
-![Design UI/UX](https://img.shields.io/badge/Design%20UI%2FUX-AA69B4?style=for-the-badge&labelColor=black)
-![Architecture Client Serveur](https://img.shields.io/badge/Architecture%20Client%20Serveur-4682B4?style=for-the-badge&labelColor=black)
-![Testabilité](https://img.shields.io/badge/Testabilité-850249?style=for-the-badge&labelColor=black)
-![Algorithmique et Structures de Données](https://img.shields.io/badge/Algorithmique%20et%20Structures%20de%20Données-FF4500?style=for-the-badge&labelColor=black)
-![Programmation Orientée Objet](https://img.shields.io/badge/Programmation%20Orientée%20Objet-1E90FF?style=for-the-badge&labelColor=black)
-![Bases de Données Relationnelles](https://img.shields.io/badge/Bases%20de%20Données%20Relationnelles-800080?style=for-the-badge&labelColor=black)
-![Développement Web](https://img.shields.io/badge/Développement%20Web-008000?style=for-the-badge&labelColor=black)
-![Architecture des ordinateurs et OS](https://img.shields.io/badge/Architecture%20des%20ordinateurs%20et%20OS-4682B4?style=for-the-badge&labelColor=black)
-![Réseaux et sécurité](https://img.shields.io/badge/Réseaux%20et%20sécurité-4B0082?style=for-the-badge&labelColor=black)
-![Méthode Agile](https://img.shields.io/badge/Méthode%20Agile-009900?style=for-the-badge&labelColor=black)
-![Framework](https://img.shields.io/badge/Framework-808000?style=for-the-badge&labelColor=black)
-![API REST](https://img.shields.io/badge/API%20REST-800000?style=for-the-badge&labelColor=black)
-![IA et Machine Learning](https://img.shields.io/badge/IA%20et%20Machine%20Learning-9370DB?style=for-the-badge&labelColor=black)
-![Diagrammes UML](https://img.shields.io/badge/Diagrammes%20UML-2E8B57?style=for-the-badge&labelColor=black)
-![Diagrammes BPMN](https://img.shields.io/badge/Diagrammes%20BPMN-2E8B57?style=for-the-badge&labelColor=black)
-
-## Systèmes d'exploitation utilisés
-
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&labelColor=black&logo=windows&logoColor=0078D6)](https://www.microsoft.com/windows/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&labelColor=black&logo=linux&logoColor=FCC624)](https://www.linux.org/)
 
 ## Technologies maitrisées
 
@@ -99,7 +66,6 @@
 
 ## Applications maitrisées
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-008080?style=for-the-badge&labelColor=black)
 ![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&labelColor=black&logo=trello&logoColor=0079BF)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&labelColor=black&logo=visual-studio-code&logoColor=007ACC)

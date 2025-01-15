@@ -17,7 +17,7 @@
     <a href="https://www.linkedin.com/in/nils-moreau-thomas-2b7a95259/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077B5"/>
     </a>
-    <a href="https://nilsmt.github.io/Portfolio">
+    <a href="https://nilsmt.vercel.app">
         <img src="https://img.shields.io/badge/Portfolio-45AA55?style=for-the-badge&labelColor=black&logo=github&logoColor=45AA55"/>
     </a>
     <br>

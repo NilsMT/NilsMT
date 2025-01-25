@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=soft&height=75&color=0:955aae,100:24122b&text=Les%20choses%20avec%20lesquelles%20j'ai%20travaillé&fontColor=F0F6FC&stroke=0D1117&textBg=false&fontSize=40&section=footer"/>
+    <img src="https://capsule-render.vercel.app/api?type=soft&height=50&color=0:955aae,100:24122b&text=Les%20choses%20avec%20lesquelles%20j'ai%20travaillé&fontColor=F0F6FC&stroke=0D1117&textBg=false&fontSize=30&section=footer"/>
 </p>
 
 
@@ -74,7 +74,7 @@
 </p>
 
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=soft&height=75&color=0:955aae,100:24122b&fontColor=F0F6FC&stroke=0D1117&textBg=false&fontSize=-9&section=footer">
+    <img src="https://capsule-render.vercel.app/api?type=soft&height=50&color=0:955aae,100:24122b&fontColor=F0F6FC&stroke=0D1117&textBg=false&fontSize=-9&section=footer">
 </p>
 
 <p align="center">

@@ -37,10 +37,11 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NilsMT&theme=dark&show_icons=true&hide_border=false&layout=compact"/>
 </p>
 
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
 <br><br><br>
 
 <p align="center"> 
     <small>Ce README à été inspiré par celui de <a href="https://github.com/alsiam/">Saif Al Siam</a></small><br>
     <small>Ce README utilise <a href="https://gh-stats-gen.vercel.app/">Github Stats Generator</a> & <a href="https://github-profile-trophy.vercel.app/">Github Profile Throphy</a></small>
 </p>
-

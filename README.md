@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=soft&height=50&color=0:955aae,100:24122b&text=J'ai%20travaillé%20avec&fontColor=F0F6FC&stroke=0D1117&textBg=false&fontSize=30&section=footer"/>
+    <img src="https://capsule-render.vercel.app/api?type=soft&height=75&color=0:955aae,100:24122b&text=J%27ai%20travaill%C3%A9%20avec&fontColor=F0F6FC&stroke=0D1117&textBg=false&fontSize=30&section=footer"/>
 </p>
 
 

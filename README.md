@@ -23,11 +23,6 @@
     <br>
 </p>
 
-<p align="center"> 
-    <img src="https://github-profile-trophy.vercel.app/?username=NilsMT&theme=darkhub&rank=-?&no-frame=false&column=-1"/><br>
-    <img src="https://github-readme-stats.vercel.app/api?username=NilsMT&theme=dark&show_icons=true&hide_border=false&count_private=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NilsMT&theme=dark&show_icons=true&hide_border=false&layout=compact"/>
-</p>
 
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=soft&height=75&color=0:955aae,100:24122b&text=J%27ai%20travaill%C3%A9%20avec&fontColor=F0F6FC&stroke=0D1117&textBg=false&fontSize=30&section=footer"/>
